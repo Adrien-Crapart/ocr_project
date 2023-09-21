@@ -1,0 +1,10 @@
+pytesseract 
+opencv-python
+pillow 
+PyPDF2
+pdf2image
+psycopg2-binary
+pyspellchecker
+autocorrect
+pyspellchecker
+language-tool-python
